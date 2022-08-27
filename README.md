@@ -1,0 +1,2 @@
+# Minecraft_ChatLogDiscord_mod
+Discord Webhookを使ってチャットログをDiscordに送信するforge Mod
